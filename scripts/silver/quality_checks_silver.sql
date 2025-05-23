@@ -16,10 +16,11 @@ Usage Notes:
 =======================================================
 */
 
+
 -- Quality Check: <silver> Table
 
 use DataWareHouse;
-
+-----------------------------------------------------------------
 -- Quality Check: <crm_cust_info>
 -- Check for NULL or duplicate values in the Primary Key
 -- Expectation: No Result
