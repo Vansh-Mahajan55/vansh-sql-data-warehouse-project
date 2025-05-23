@@ -1,4 +1,12 @@
-
+/*
+============================================================================
+DDL SCRIPT: Create Silver Tables
+============================================================================
+Script Purpose:
+    This script drops the tables if they already exist and then creates new tables in place of them.
+    Run this script to define the tables in the 'SILVER' schema.
+============================================================================
+*/
 
 -- Create customer info table in the silver layer
 -- Drops the table if it already exists, 'U' means user defined table
