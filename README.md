@@ -11,6 +11,6 @@ The Project follows the Medallion Architecture in Data Engineering consisting of
 - Gold - The final layer where data is combined from sources into a star schema to be used for business analysis.
 
   Architecture Diagram:
-  [Architecture](/docs/Architecture.jpg 'Architecture')
+  ![Architecture](/docs/Architecture.jpg 'Architecture')
 
 
