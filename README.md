@@ -13,5 +13,7 @@ The Project follows the Medallion Architecture in Data Engineering consisting of
 Architecture Diagram:<br>
 ![Architecture](/docs/Architecture.jpg 'Architecture')
 
-LinkedIn:
+## About Me:
+Hi I'm Vansh Mahajan, An aspiring Data Scientist. You can connect with me on my Socials below:
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshmahajan55/)
